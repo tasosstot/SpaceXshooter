@@ -1,6 +1,7 @@
 # Space Adventure Game
 
 This game is a serious game developed as part of my MSc program. It involves progressing through various space-themed levels, each with increasing difficulty.
+The game is created with the java framework GreenFoot
 
 ## Game Overview
 
