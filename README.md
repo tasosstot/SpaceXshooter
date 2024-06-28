@@ -1,6 +1,6 @@
 # Space Adventure Game
 
-This game involves progressing through various space-themed levels, each with increasing difficulty.
+This game is a serious game developed as part of my MSc program. It involves progressing through various space-themed levels, each with increasing difficulty.
 
 ## Game Overview
 
@@ -45,5 +45,5 @@ This game involves progressing through various space-themed levels, each with in
 - [Greenfoot Game Tutorials](https://www.codingclubcourses.com/greenfoot-game-tutorials)
 - [Greenfoot API](https://www.greenfoot.org/scenarios)
 
-## Acknowledgements
-- Postgraduate courses that contributed to the development of this game.
+You can find the Jar and .exe files in the jar folder.
+#### Happy Gaming!!!
