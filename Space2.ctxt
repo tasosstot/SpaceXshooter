@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Space2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Space2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=rocket
+comment1.target=Space2(Rocket)
+comment2.params=
+comment2.target=HealthBar\ getHealthBar()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ Boss()
+comment5.params=
+comment5.target=void\ addRedFire()
+comment6.params=
+comment6.target=void\ addRock()
+comment7.params=rocket
+comment7.target=void\ prepare(Rocket)
+comment7.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=8
